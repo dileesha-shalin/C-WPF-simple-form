@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TZEFPdyYxy/Zv/S8jAUMGLv7935juAQHDOyQUsBN67zi3w55tcAhQ8ZVFjjvOXR2uJZnw8mRizmvYysntF1oCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shalin Dileesha\\Desktop\\WPF\\FirstOne\\FirstOne.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shalin Dileesha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.2\\microsoft.netcore.app.host.win-x64.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
